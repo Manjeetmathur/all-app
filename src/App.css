@@ -1,0 +1,27 @@
+.header-text{
+       font-weight: 900;
+       font-size: 20px;
+       font-family:'Courier New', Courier, monospace ;
+}
+.calculator-no{
+       /* p-4 border-4 rounded-full m-4 text-[17px] w-[60px]  */
+       padding: 16px;
+       border: 16px;
+       border-radius: 45%;
+       margin: 18px;
+       width: 60px;
+       background-color:#374151;
+       color: white;
+       font-size: 20px;
+       font-weight: 500;
+}
+.page-btn{
+       padding: 5px;
+       margin: 18px;
+       border-radius: 20px;
+       background-color:rgb(255, 110, 58);
+       color: white;
+       font-size: 20px;
+       font-weight: 500;
+       box-shadow: 3px 2px 5px rgb(70, 70, 70);
+}
