@@ -5,7 +5,7 @@ import Home from "../pages/Home";
 import Login from "../pages/Login";
 import AuthLayout from "../components/AuthLayout";
 import Signup from "../pages/Signup";
-import Calculator from "../pages/Calculator/calculator";
+import Calculator from "../pages/Calculator/Calculator";
 import Todo from "../pages/to-do/Todo";
 
 const router = createBrowserRouter([
